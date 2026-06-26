@@ -79,6 +79,8 @@
 
 ###
 
+---
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ayushchoudhary01&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app/?username=ayushchoudhary01&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
